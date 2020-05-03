@@ -9,7 +9,7 @@ If the switches `--compare-iterative`,`--add-declaration` and optionally `--show
 
 The program `find_bad.py` can be used to generate a certain amount of instances of a given problem and compare their respective solutions with iterative approach. It uses the `create_random_circles.py` and `solve.py` programs. It outputs the approximation factors and the worst instance.
 
-##Requirements
+## Requirements
 * python3
 * the ILOG CPLEX Solver and its python bindings
 
